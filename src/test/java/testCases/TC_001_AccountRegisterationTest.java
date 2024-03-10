@@ -2,11 +2,11 @@ package testCases;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import pageObjects.AccountRegisterationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
+//Adding comment 
 public class TC_001_AccountRegisterationTest extends BaseClass{
 	
 	@Test
