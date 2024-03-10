@@ -1,0 +1,6 @@
+pageObjects\BasePage.class
+pageObjects\AccountRegisterationPage.class
+utilities\ExtentReportManager.class
+pageObjects\HomePage.class
+testCases\TC_001_AccountRegisterationTest.class
+testBase\BaseClass.class
